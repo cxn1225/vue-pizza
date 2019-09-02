@@ -1,5 +1,5 @@
 # vue-pizza
-
+#简单订餐系统
 ## Project setup
 ```
 npm install
